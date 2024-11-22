@@ -15,5 +15,5 @@ I am a Self Employed and Data Engineer passionate about Data Scientist. I enjoy 
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/SundharS07
 - Twitter: https://x.com/sundharrao7
-- Portfolio: https://sundhars07.github.io/Sundhar-S/
+- Portfolio: https://sundhars07.github.io/sundharsportfolio/
 
